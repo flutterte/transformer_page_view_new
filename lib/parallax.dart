@@ -88,9 +88,9 @@ class ParallaxColor extends StatefulWidget {
   final TransformInfo info;
 
   ParallaxColor({
-    @required this.colors,
-    @required this.info,
-    @required this.child,
+    required this.colors,
+    required this.info,
+    required this.child,
   });
 
   @override
