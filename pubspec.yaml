@@ -1,7 +1,7 @@
 name: transformer_page_view_new
 description: PageTransformer for flutter
 version: 0.1.0
-homepage:  https://github.com/jzoom/transformer_page_view_new
+homepage:  https://github.com/qssq/transformer_page_view_new
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
