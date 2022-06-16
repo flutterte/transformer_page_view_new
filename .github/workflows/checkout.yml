@@ -24,8 +24,8 @@ jobs:
           flutter-version: $FLUTTER_VERSION
       - name: Install dependencies
         run: flutter pub get
-      - name: Analyze
-        run: flutter analyze
+     # - name: Analyze
+    #  run: flutter analyze
 
       - name: Setup Pub Credentials
         shell: bash
